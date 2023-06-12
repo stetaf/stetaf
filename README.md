@@ -1,5 +1,5 @@
 ## Ciao! 👋
-My name is Stefano. I'm a Jr. Full Stack Web Developer from Milan, Italy.
+My name is Stefano. I'm a Full stack Web Developer from Milan, Italy.
 
 [![Immagine.png](https://i.postimg.cc/0NBVkDXf/Immagine.png)](https://postimg.cc/t1F3DZjZ)
 
